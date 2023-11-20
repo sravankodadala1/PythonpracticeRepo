@@ -4,7 +4,7 @@
 numbers = [1, 2, 3, 4, 5]
 # Calculate the sum using the built-in sum() function
 list_sum = sum(numbers)
-# Print the result
+# Print the result 
 print("Sum of elements:", list_sum)
 
 
