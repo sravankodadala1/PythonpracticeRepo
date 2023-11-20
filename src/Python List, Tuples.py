@@ -2,7 +2,7 @@ num_list = [1, 2, 3, 4, 5]
 
 # Access a single element
 print(num_list[0])  # Output: 1
-
+ 
 # Slicing to get a sublist
 print(num_list[1:3])  # Output: [2, 3]
 
