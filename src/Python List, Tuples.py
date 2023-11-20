@@ -5,7 +5,7 @@ print(num_list[0])  # Output: 1
  
 # Slicing to get a sublist
 print(num_list[1:3])  # Output: [2, 3]
-
+ 
 num_list[3] = 9
 print(num_list)  # Output: [1, 2, 3, 9, 5]
 
